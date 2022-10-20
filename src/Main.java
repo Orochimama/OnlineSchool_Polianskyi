@@ -1,4 +1,4 @@
-import com.onlineSchool.classes.*;
+import com.onlineSchool.classes.Lecture;
 
 public class Main {
 
