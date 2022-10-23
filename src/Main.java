@@ -8,6 +8,7 @@ public class Main {
         Lecture lecture2 = new Lecture();
         Lecture lecture3 = new Lecture();
         Lecture lecture4 = new Lecture();
+        Lecture lecture5 = new Lecture();
 
         System.out.println(Lecture.lectureId);
     }
